@@ -93,10 +93,13 @@ Project_Folder/
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+## 🖼️ Output Snapshots
 
-## 🙋‍♀️ Author
+### ▶️ Stopwatch Running
+![Stopwatch Running](images/imagesrunning.jpg)
 
-**Bhargavi Dande**  
-Embedded Systems Enthusiast | STM32 Developer  
-GitHub: [@bhargavi-ese](https://github.com/bhargavi-ese)  
-LinkedIn: [View Profile](https://linkedin.com/in/bhargavi-dande)  
+### ⏸️ Stopwatch Paused
+![Stopwatch Paused](images/imagespaused.jpg)
+
+### 🔄 Stopwatch Reset
+![Stopwatch Reset](images/imagesreset.jpg)
