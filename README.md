@@ -96,10 +96,10 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🖼️ Output Snapshots
 
 ### ▶️ Stopwatch Running
-![Stopwatch Running](images/imagesrunning.jpg)
+![Running](imagerunnig.jpg)
 
 ### ⏸️ Stopwatch Paused
-![Stopwatch Paused](images/imagespaused.jpg)
+![Paused](imagespaused.jpg)
 
 ### 🔄 Stopwatch Reset
-![Stopwatch Reset](images/imagesreset.jpg)
+![Reset](imagesreset.jpg)
